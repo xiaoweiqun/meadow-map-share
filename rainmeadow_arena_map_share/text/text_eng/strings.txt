@@ -1,0 +1,47 @@
+Map Share|Map Share
+Extra Maps|Extra Maps
+Host maps load without restart.|Host maps load without restart.
+Auto: OFF|Auto: OFF
+Auto: ON|Auto: ON
+Speed: Low|Speed: Low
+Speed: Normal|Speed: Normal
+Speed: Fast|Speed: Fast
+Download All|Download All
+Download|Download
+Decline|Decline
+Players with selected maps|Players with selected maps
+Local map readiness|Local map readiness
+Select a map|Select a map
+No extra maps offered|No extra maps offered
+Players ready|Players ready
+Local maps ready|Local maps ready
+Offered|Offered
+Available|Available
+Downloading|Downloading
+Declined|Declined
+MissingDependency|Additional mod required
+Failed|Verification failed
+Selected for this match|Selected for this match
+Host extra maps|Host extra maps
+Search maps|Search maps
+Toggle thumbnails|Show or hide thumbnails
+
+Owned map library|Owned map library
+Open local map folder|Open local map folder
+Select All|Select All
+Clear Selection|Clear Selection
+Add Selected|Add to level list
+
+Local map|Local map
+
+Host selected maps|Host selected maps
+
+Waiting for data|Waiting for data
+Open Workshop|Open Workshop
+Workshop required|Workshop subscription required
+By|By
+Conflict|Conflict
+Subscribe on Workshop|Subscribe on Workshop; waiting for Steam
+Workshop version mismatch|Workshop version differs from host
+Grab: favorite|Grab: toggle favorite
+Waiting for Steam|Waiting for Steam Workshop

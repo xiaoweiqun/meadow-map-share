@@ -1,0 +1,44 @@
+Map Share|맵 공유
+Extra Maps|추가 맵
+Host maps load without restart.|호스트 추가 맵 (재시작 불필요)
+Auto: OFF|자동: 끔
+Auto: ON|자동: 켬
+Speed: Low|속도: 낮음
+Speed: Normal|속도: 보통
+Speed: Fast|속도: 빠름
+Download All|모두 다운로드
+Download|다운로드
+Decline|거절
+Players with selected maps|선택한 맵을 보유한 플레이어
+Local map readiness|로컬 맵 준비 상태
+Select a map|맵을 선택하세요
+No extra maps offered|제공된 추가 맵 없음
+Players ready|준비된 플레이어
+Local maps ready|로컬 맵 준비됨
+Offered|다운로드 가능
+Available|보유함
+Downloading|다운로드 중
+Declined|거절됨
+MissingDependency|추가 모드 필요
+Failed|검증 실패
+Selected for this match|이번 경기 선택 맵
+Host selected maps|호스트 선택 맵
+Host extra maps|호스트의 다른 맵
+Search maps|맵 검색
+Toggle thumbnails|미리보기 표시 전환
+Owned map library|보유 맵 보관함
+Open local map folder|로컬 맵 폴더 열기
+Select All|모두 선택
+Clear Selection|선택 해제
+Add Selected|플레이 목록에 추가
+Local map|로컬 맵
+
+Waiting for data|데이터 대기 중
+Open Workshop|창작마당 열기
+Workshop required|창작마당 구독 필요
+By|제작자
+Conflict|버전 충돌
+Subscribe on Workshop|창작마당에서 구독하세요. Steam 대기 중
+Workshop version mismatch|창작마당 버전이 방장과 다릅니다
+Grab: favorite|잡기: 즐겨찾기 전환
+Waiting for Steam|Steam 창작마당 대기 중

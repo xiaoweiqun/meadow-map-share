@@ -1,0 +1,47 @@
+Map Share|地图共享
+Extra Maps|额外地图
+Host maps load without restart.|房主额外地图（下载后无需重启）
+Auto: OFF|自动下载：关
+Auto: ON|自动下载：开
+Speed: Low|速度：低
+Speed: Normal|速度：普通
+Speed: Fast|速度：快
+Download All|全部下载
+Download|下载
+Decline|拒绝
+Players with selected maps|拥有所选地图的玩家
+Local map readiness|本地地图准备情况
+Select a map|请选择地图
+No extra maps offered|房主尚未提供额外地图
+Players ready|玩家就绪
+Local maps ready|本地地图就绪
+Offered|待下载
+Available|已有
+Downloading|下载中
+Declined|已拒绝
+MissingDependency|需要额外模组
+Failed|校验失败
+Selected for this match|本局已选
+Host extra maps|房主其他地图
+Search maps|搜索地图
+Toggle thumbnails|显示/隐藏缩略图
+
+Owned map library|已拥有地图收纳库
+Open local map folder|打开本地地图文件夹
+Select All|全选
+Clear Selection|取消全选
+Add Selected|加入总地图列表
+
+Local map|本地地图
+
+Host selected maps|房主已选地图
+
+Waiting for data|等待数据
+Open Workshop|打开创意工坊
+Workshop required|需要订阅创意工坊原作
+By|作者
+Conflict|版本冲突
+Subscribe on Workshop|请在创意工坊订阅，正在等待 Steam
+Workshop version mismatch|工坊地图版本与房主不一致
+Grab: favorite|抓取键：切换收藏
+Waiting for Steam|正在等待 Steam 创意工坊

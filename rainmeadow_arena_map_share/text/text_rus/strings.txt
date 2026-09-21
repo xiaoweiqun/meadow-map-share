@@ -1,0 +1,44 @@
+Map Share|Обмен картами
+Extra Maps|Дополнительные карты
+Host maps load without restart.|Карты хоста без перезапуска
+Auto: OFF|Авто: ВЫКЛ.
+Auto: ON|Авто: ВКЛ.
+Speed: Low|Скорость: низкая
+Speed: Normal|Скорость: обычная
+Speed: Fast|Скорость: высокая
+Download All|Скачать все
+Download|Скачать
+Decline|Отказаться
+Players with selected maps|Игроки с выбранными картами
+Local map readiness|Готовность локальных карт
+Select a map|Выберите карту
+No extra maps offered|Дополнительных карт нет
+Players ready|Игроки готовы
+Local maps ready|Локальные карты готовы
+Offered|Предложена
+Available|Доступна
+Downloading|Загрузка
+Declined|Отклонена
+MissingDependency|Требуется дополнительный мод
+Failed|Ошибка проверки
+Selected for this match|Выбрано для матча
+Host selected maps|Карты, выбранные хостом
+Host extra maps|Другие карты хоста
+Search maps|Поиск карт
+Toggle thumbnails|Показать или скрыть миниатюры
+Owned map library|Библиотека загруженных карт
+Open local map folder|Открыть папку локальных карт
+Select All|Выбрать все
+Clear Selection|Снять выбор
+Add Selected|Добавить в список игры
+Local map|Локальная карта
+
+Waiting for data|Ожидание данных
+Open Workshop|Открыть Мастерскую
+Workshop required|Требуется подписка в Мастерской
+By|Автор
+Conflict|Конфликт версий
+Subscribe on Workshop|Подпишитесь в Мастерской; ожидание Steam
+Workshop version mismatch|Версия из Мастерской отличается от версии хоста
+Grab: favorite|Схватить: добавить в избранное
+Waiting for Steam|Ожидание Steam Workshop

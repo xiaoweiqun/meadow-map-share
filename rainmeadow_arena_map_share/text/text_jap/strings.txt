@@ -1,0 +1,44 @@
+Map Share|マップ共有
+Extra Maps|追加マップ
+Host maps load without restart.|ホストの追加マップ（再起動不要）
+Auto: OFF|自動：オフ
+Auto: ON|自動：オン
+Speed: Low|速度：低速
+Speed: Normal|速度：標準
+Speed: Fast|速度：高速
+Download All|すべてダウンロード
+Download|ダウンロード
+Decline|拒否
+Players with selected maps|選択マップを所持するプレイヤー
+Local map readiness|ローカルマップの準備状況
+Select a map|マップを選択
+No extra maps offered|追加マップはありません
+Players ready|準備済みプレイヤー
+Local maps ready|ローカルマップ準備完了
+Offered|未ダウンロード
+Available|所持済み
+Downloading|ダウンロード中
+Declined|拒否済み
+MissingDependency|追加Modが必要
+Failed|検証失敗
+Selected for this match|今回の選択マップ
+Host selected maps|ホストの選択マップ
+Host extra maps|ホストのその他のマップ
+Search maps|マップを検索
+Toggle thumbnails|サムネイル表示切替
+Owned map library|所持マップ収納庫
+Open local map folder|ローカルマップフォルダーを開く
+Select All|すべて選択
+Clear Selection|選択解除
+Add Selected|プレイリストに追加
+Local map|ローカルマップ
+
+Waiting for data|データ待機中
+Open Workshop|ワークショップを開く
+Workshop required|ワークショップの購読が必要
+By|作者
+Conflict|バージョン競合
+Subscribe on Workshop|ワークショップで購読してください。Steamを待機中
+Workshop version mismatch|ワークショップ版がホストと一致しません
+Grab: favorite|つかむ：お気に入り切替
+Waiting for Steam|Steamワークショップを待機中

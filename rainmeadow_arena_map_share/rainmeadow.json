@@ -1,0 +1,8 @@
+{
+  "sync_required_mods_override": [
+    "openai_rainmeadow_arena_map_share"
+  ],
+  "banned_online_mods_override": [
+    "openai_rainmeadow_arena_map_share"
+  ]
+}

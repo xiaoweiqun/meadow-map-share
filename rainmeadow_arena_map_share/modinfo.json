@@ -1,0 +1,17 @@
+{
+  "id": "openai_rainmeadow_arena_map_share",
+  "name": "Rain Meadow: Arena Map Share",
+  "version": "0.7.0",
+  "target_game_version": "v1.11.8",
+  "authors": "OpenAI Codex, made for hyl",
+  "description": "Share pure custom Arena maps inside Rain Meadow lobbies, download them in-game, and wait in the chat lobby when the current map is unavailable.",
+  "requirements": [ "henpemaz_rainmeadow" ],
+  "requirements_names": [ "Rain Meadow" ],
+  "tags": [ "Game Mechanics", "Game Modes" ],
+  "checksum_override_version": false
+}
+
+
+
+
+

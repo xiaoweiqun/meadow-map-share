@@ -1,0 +1,44 @@
+Map Share|Compartir mapas
+Extra Maps|Mapas adicionales
+Host maps load without restart.|Mapas del anfitrión sin reiniciar
+Auto: OFF|Auto: NO
+Auto: ON|Auto: SÍ
+Speed: Low|Velocidad: baja
+Speed: Normal|Velocidad: normal
+Speed: Fast|Velocidad: rápida
+Download All|Descargar todo
+Download|Descargar
+Decline|Rechazar
+Players with selected maps|Jugadores con los mapas elegidos
+Local map readiness|Estado de mapas locales
+Select a map|Selecciona un mapa
+No extra maps offered|No hay mapas adicionales
+Players ready|Jugadores listos
+Local maps ready|Mapas locales listos
+Offered|Ofrecido
+Available|Disponible
+Downloading|Descargando
+Declined|Rechazado
+MissingDependency|Se necesita un mod adicional
+Failed|Error de verificación
+Selected for this match|Elegidos para esta partida
+Host selected maps|Mapas elegidos por el anfitrión
+Host extra maps|Otros mapas del anfitrión
+Search maps|Buscar mapas
+Toggle thumbnails|Mostrar u ocultar miniaturas
+Owned map library|Biblioteca de mapas propios
+Open local map folder|Abrir carpeta local de mapas
+Select All|Seleccionar todo
+Clear Selection|Borrar selección
+Add Selected|Añadir a la lista de juego
+Local map|Mapa local
+
+Waiting for data|Esperando datos
+Open Workshop|Abrir Workshop
+Workshop required|Se requiere suscripción a Workshop
+By|Por
+Conflict|Conflicto de versión
+Subscribe on Workshop|Suscríbete en Workshop; esperando a Steam
+Workshop version mismatch|La versión de Workshop difiere de la del anfitrión
+Grab: favorite|Agarrar: marcar como favorita
+Waiting for Steam|Esperando a Steam Workshop
